@@ -87,7 +87,9 @@ Los autores agradecen el tiempo de cómputo otorgado por LANCAD y CONAHCyT en la
 
 J. Alejandro Vázquez-Díaz · alejandrofenix19@gmail.com
 
-Más de mi trabajo en bioinformática: [github.com/AlejandroVzD](https://github.com/AlejandroVzD)
+- ORCID: [orcid.org/0009-0006-8448-3469](https://orcid.org/0009-0006-8448-3469)
+- LinkedIn: [José Alejandro Vázquez Díaz](https://www.linkedin.com/in/jos%C3%A9-alejandro-v%C3%A1zquez-d%C3%ADaz-0702711b5/)
+- Más de mi trabajo en bioinformática: [github.com/AlejandroVzD](https://github.com/AlejandroVzD)
 
 ## In English
 
